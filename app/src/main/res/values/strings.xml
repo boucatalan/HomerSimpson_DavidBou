@@ -2,4 +2,7 @@
     <string name="app_name">HomerSimpson_DavidBou</string>
     <string name="titulo_simpsons">titulo simpsons</string>
     <string name="homer">imagen Homer</string>
+    <string name="parar">Stop</string>
+    <string name="iniciar">Reproduint</string>
+    <string name="error_audio">"No s'ha pogut reproduir el so."</string>
 </resources>
