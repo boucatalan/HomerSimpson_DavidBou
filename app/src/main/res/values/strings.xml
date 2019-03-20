@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HomerSimpson_DavidBou</string>
+    <string name="titulo_simpsons">titulo simpsons</string>
+    <string name="homer">imagen Homer</string>
 </resources>
