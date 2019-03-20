@@ -30,4 +30,63 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.498" />
 
+    <ImageView
+        android:id="@+id/imgER"
+        android:layout_width="65dp"
+        android:layout_height="65dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="88dp"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="@+id/imgHomer"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/animacioImg"
+        app:layout_constraintTop_toTopOf="@+id/imgHomer"
+        app:layout_constraintVertical_bias="0.072"
+        app:srcCompat="@drawable/engranatge_vermell" />
+
+    <ImageView
+        android:id="@+id/imgEV"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_marginEnd="60dp"
+        android:layout_marginBottom="144dp"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="@+id/imgHomer"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:srcCompat="@drawable/engranatge_verd" />
+
+    <ImageView
+        android:id="@+id/imgEA"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="96dp"
+        android:layout_marginBottom="116dp"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="@+id/imgHomer"
+        app:layout_constraintStart_toStartOf="@+id/imgHomer"
+        app:srcCompat="@drawable/engranatge_blau" />
+
+    <ImageView
+        android:id="@+id/imgOJO"
+        android:layout_width="37dp"
+        android:layout_height="26dp"
+        android:layout_marginStart="49dp"
+        android:layout_marginBottom="122dp"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="@+id/imgHomer"
+        app:layout_constraintStart_toStartOf="@+id/imgHomer"
+        app:srcCompat="@drawable/ull" />
+
+    <ImageView
+        android:id="@+id/imgDonut"
+        android:layout_width="65dp"
+        android:layout_height="65dp"
+        android:layout_marginStart="70dp"
+        android:layout_marginBottom="240dp"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/donut" />
+
 </android.support.constraint.ConstraintLayout>
