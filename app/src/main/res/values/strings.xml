@@ -5,4 +5,9 @@
     <string name="parar">Stop</string>
     <string name="iniciar">Reproduint</string>
     <string name="error_audio">"No s'ha pogut reproduir el so."</string>
+    <string name="engranaje_rojo">engranaje Rojo</string>
+    <string name="engranaje_verde">engranaje Verde</string>
+    <string name="engranaje_azul">engranaje Azul</string>
+    <string name="ojo">Ojo</string>
+    <string name="donut">Donut</string>
 </resources>
